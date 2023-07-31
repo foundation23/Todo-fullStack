@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.app {
+    height: 100vh;
+    display: grid;
+    grid-template-areas:
+        "h h "
+        "n t ";
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 0.9fr 10fr;
+}
+
+
+
+
+
+
+
+

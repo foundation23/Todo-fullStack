@@ -1,0 +1,20 @@
+.link_group{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete {
+    margin: 0 10px 0 0;
+    color: #ead7d7;
+    font-size: 20px;
+    cursor: pointer;
+}
+.link{
+    margin: 0;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,9 @@
+.todo-list{
+    background-color: #f7f2f2;
+    width: 100%;
+    grid-area: t;
+}
+h2{
+    padding-top: 2rem;
+    text-align: center;
+}
